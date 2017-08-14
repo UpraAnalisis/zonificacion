@@ -18,7 +18,7 @@ El proceso de instalación es el siguiente:
 
 1. Descargar el `Modelo`:
 
-    Existen dos opciones de descarga, se puede descargar todo el repositorio o solo el ultimo Release de los Modelos [Aquí](https://github.com/UpraAnalisis/AptiTool/releases/latest)
+    Existen dos opciones de descarga, se puede descargar todo el repositorio o solo el ultimo Release de los Modelos [Aquí](https://github.com/UpraAnalisis/zonificacion/releases/latest)
 
 2. Descomprimir
 
